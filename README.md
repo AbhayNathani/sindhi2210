@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sindhi2210
-- 👀 I’m interested in Electronics, AI/ML, Embedded Systems.
-- 🌱 I’m currently learning Python, ARM MCUs, Electronics. 
-- 💞️ I’m looking to collaborate on {undefined}
+- 👀 Enjoy Coding. Currently Working in Machine Learning and Data Science
 - 📫 How to reach me: Insta @abhislab
 
 <!---
